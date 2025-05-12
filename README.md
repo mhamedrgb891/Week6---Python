@@ -1,6 +1,6 @@
 # Week 6 – Python Programming
 
-Part of CS50x 2024 – Introduction to Computer Science by Harvard University
+Part of CS50x 2025 – Introduction to Computer Science by Harvard University
 
 ## Overview
 This week introduced Python and its simpler syntax compared to C. The goal was to refactor previous logic using Python's built-in features and dynamic typing.
